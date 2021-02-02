@@ -13,3 +13,4 @@
 
 [GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](https://lylgzk.github.io/zhangkui/#/readme)
+[Get Started-local](http://localhost:3000/#/readme)
