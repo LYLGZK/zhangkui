@@ -11,4 +11,4 @@
 - 干饭了吗干饭人
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](https://lylgzk.github.io/zhangkui/#/)
+[Get Started](https://lylgzk.github.io/zhangkui/#/readme)
