@@ -10,4 +10,3 @@
 - 干饭都是人上人
 - 干饭了吗干饭人
 
-[往下滑](https://lylgzk.github.io/zhangkui/#/?id=readme)
